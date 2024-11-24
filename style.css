@@ -7,10 +7,9 @@ body {
     perspective: 800px;
   }
 h3{
-   background:black;
+    background:black;
     color:yellow;
-    align-item:center;
-    justify:center;
+    text-align:center;
   }
   
   .cube {
