@@ -24,7 +24,7 @@ h3{
     position: absolute;
     width: 200px;
     height: 200px;
-    background-color:white;
+    background: rgba(255, 255, 255, 0.8);
     border: 1px solid #ccc;
     text-align: center;
     line-height: 200px;
