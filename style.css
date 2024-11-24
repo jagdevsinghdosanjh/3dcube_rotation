@@ -6,6 +6,10 @@ body {
     margin: 0;
     perspective: 800px;
   }
+h3{
+   background:black;
+    color:yellow;
+  }
   
   .cube {
     position: relative;
