@@ -9,6 +9,8 @@ body {
 h3{
    background:black;
     color:yellow;
+    align-item:center;
+    justify:center;
   }
   
   .cube {
